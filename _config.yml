@@ -1,8 +1,8 @@
 # Site
 name: "Memoirs"
 title: "Memoirs"
-git description: "디자이너에서 개발자로, Canon의 일상과 코딩여정🚀"
-logo: ""
+description: "디자이너에서 개발자로, Canon의 일상과 코딩여정🚀"
+logo: "assets/images/mj.png"
 favicon: "assets/images/mj-icon.png"
 baseurl:
 google_analytics: "UA-xxxxxxxx-1"
