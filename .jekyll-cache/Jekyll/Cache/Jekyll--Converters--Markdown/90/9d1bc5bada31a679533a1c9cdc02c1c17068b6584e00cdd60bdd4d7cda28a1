@@ -1,5 +1,4 @@
-I"
-<div class="list-authors mt-5">
+I"	<div class="list-authors mt-5">
    
     <div id="Sal" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">   
         <div class="row">
@@ -32,33 +31,31 @@
         </div> 
     </div>    
    
-    <div id="John" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">   
+    <div id="minjoo" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">   
         <div class="row">
             <div class="wrapavname col-md-3 text-center">
                 
-                <img class="author-thumb" src="/assets/images/avatar.png" alt="" />
+                <img class="author-thumb" src="/assets/images/mj-icon.png" alt="" />
                 
 
                 <p class="mt-4 mb-0 small text-center">
 
                     
-                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="https://www.wowthemes.net"><i class="fa fa-link"></i></a> 
+                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="canonmj.github.io"><i class="fa fa-link"></i></a> 
                     
 
                     
-                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="https://twitter.com/wowthemesnet"><i class="fab fa-twitter"></i></a>
-                    
 
                     
-                        <a class="d-inline-block mx-1 text-dark" href="mailto:wowthemesnet@gmail.com"><i class="fa fa-envelope"></i></a>
+                        <a class="d-inline-block mx-1 text-dark" href="mailto:canon.minjoo@gmail.com"><i class="fa fa-envelope"></i></a>
                     
 
                 </p>
                 
             </div>
             <div class="col-md-9">
-                <h3>John</h3>
-                <p class="mt-3 mb-0">Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages.</p> 
+                <h3>minjoo</h3>
+                <p class="mt-3 mb-0">A person who is a minimalist but obsessed with the smallest things😓</p> 
             </div>
         </div> 
     </div>    

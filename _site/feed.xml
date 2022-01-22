@@ -5,9 +5,29 @@
     <description>Design + Development. 디디로퍼 canon입니다 🌱</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Jan 2022 18:23:28 +0900</pubDate>
-    <lastBuildDate>Sat, 22 Jan 2022 18:23:28 +0900</lastBuildDate>
+    <pubDate>Sat, 22 Jan 2022 19:24:19 +0900</pubDate>
+    <lastBuildDate>Sat, 22 Jan 2022 19:24:19 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>첫번째 포스트를 올립니다.</title>
+        <description>&lt;p&gt;블로그.. 가장 단순한 형태의 사이트이지만, 항상 뭐 하나씩이 마음에 들지 않아서 이곳저곳 방황을 했었다.
+그래서 찾아보다 직접 만들게 된 블로그이다. 블로그 유목민,, 이번에는 정착할 수 있게 해주세요!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ㅋㅋㅋㅋ확실히 혼자 쓰는 블로그라 마음껏 쓸 수 있는거 같은?!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 22 Jan 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/first-posts/</link>
+        <guid isPermaLink="true">http://localhost:4000/first-posts/</guid>
+        
+        <category>Blog</category>
+        
+        
+        <category>Lifestyle</category>
+        
+      </item>
     
       <item>
         <title>Les Ambassadeurs, the first Restaurant we Visited in Paris</title>
@@ -248,29 +268,6 @@ rating: 4.5
         <guid isPermaLink="true">http://localhost:4000/french-wine/</guid>
         
         <category>France</category>
-        
-        
-        <category>Lifestyle</category>
-        
-      </item>
-    
-      <item>
-        <title>The Observer - National Gallery of Art, Washington, United States</title>
-        <description>&lt;p&gt;The National Gallery of Art, and its attached Sculpture Garden, is a national art museum in Washington, D.C., located on the National Mall, between 3rd and 9th Streets, at Constitution Avenue NW. Open to the public and free of charge, the museum was privately established in 1937 for the American people by a joint resolution of the United States Congress. Andrew W. Mellon donated a substantial art collection and funds for construction.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The core collection includes major works of art donated by Paul Mellon, Ailsa Mellon Bruce, Lessing J. Rosenwald, Samuel Henry Kress, Rush Harrison Kress, Peter Arrell Browne Widener, Joseph E. Widener, and Chester Dale.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Gallery’s collection of paintings, drawings, prints, photographs, sculpture, medals, and decorative arts traces the development of Western Art from the Middle Ages to the present, including the only painting by Leonardo da Vinci in the Americas and the largest mobile created by Alexander Calder.&lt;/p&gt;
-
-&lt;p&gt;The Gallery’s campus includes the original neoclassical West Building designed by John Russell Pope, which is linked underground to the modern East Building, designed by I. M. Pei, and the 6.1-acre (25,000 m2) Sculpture Garden.&lt;/p&gt;
-
-&lt;p&gt;The Gallery often presents temporary special exhibitions spanning the world and the history of art. It is one of the largest museums in North America.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Dec 2019 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/the-observer/</link>
-        <guid isPermaLink="true">http://localhost:4000/the-observer/</guid>
         
         
         <category>Lifestyle</category>
