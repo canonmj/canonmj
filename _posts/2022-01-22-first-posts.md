@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "첫번째 포스트를 올립니다."
-author: john
+author: minjoo
 categories: [Lifestyle]
 tags: [Blog]
 image: assets/images/2.jpg
