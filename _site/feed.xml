@@ -1,18 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Memoirs</title>
+    <title>minjoo</title>
     <description>디자이너에서 개발자로, Canon의 일상과 코딩여정🚀</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Jan 2022 03:05:05 +0900</pubDate>
-    <lastBuildDate>Sun, 23 Jan 2022 03:05:05 +0900</lastBuildDate>
+    <pubDate>Sun, 23 Jan 2022 23:23:29 +0900</pubDate>
+    <lastBuildDate>Sun, 23 Jan 2022 23:23:29 +0900</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
-        <title>첫번째 포스트를 올립니다.</title>
+        <title>주말 마무리.</title>
+        <description>&lt;p&gt;일요일 저녁은 항상 고민이 많아진다.
+오늘의 고민의 시작은 이것이다.
+개발자로 취직한지 10개월, 최근 사수가 이직을 하게 됐다.
+취직하고 나서는 많이 맘을 놓고 있던거 같다. 어느새 1년이 다되간다니…! 사수와 나는 지금 직장에서의 생활이 약 1년 좀 넘게 차이가 나는데, 나는 1년뒤에 뭘 하고 있을까? 사수가 좋은 제안을 받아서 이직한것처럼 나도 할 수 있을까?&lt;/p&gt;
+
+&lt;p&gt;갑자기 이런저런 쌓이는 고민을 해결하기 위해, 메모장을 펼쳤다.
+궁극적으로 나는 뭘하고 싶은가? 부터시작해서 1년 후의 목표까지.. 갑자기 몰려드는 걱정과 불안함에 괴로운 시간을 보냈다.&lt;/p&gt;
+
+&lt;p&gt;취직하고 나서는 자기계발을 놓은거 같아서,, 지금 제자리 걸음만 하고 있는거 같아서가 불안함의 가장 큰 이유였던거 같다.
+남자친구한테 우울한 모습을 보여줬는데, 역시 나보다는 성숙한 사람이어서 많은 도움을 얻을 수 있었다.&lt;/p&gt;
+
+&lt;p&gt;지금 이렇게 내가 불안함을 느끼고, 목표의 필요성을 느끼는것이 첫번째 단계라고 한다.
+그 다음 목표를 잡아가는게 어려운데, 다음 단계도 잘 해내면 된다고, 지금 나의 모습이 아주 자랑스럽다고 얘기해줬다.&lt;/p&gt;
+
+&lt;p&gt;(안심과 함께 동기부여가 된다.)&lt;/p&gt;
+
+&lt;p&gt;자신감도 실력도 있는 개발자가 되어야지, 억지로가 아닌 하고 싶은 일을 하는 사람이 되어야지!!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Jan 2022 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/second-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/second-post/</guid>
+        
+        <category>Blog</category>
+        
+        
+        <category>Lifestyle</category>
+        
+      </item>
+    
+      <item>
+        <title> 블로그 개설, 첫번째 포스트를 올립니다. 으악 제발 레이아웃 어긋나지마..!</title>
         <description>&lt;p&gt;블로그.. 가장 단순한 형태의 사이트이지만, 항상 뭐 하나씩이 마음에 들지 않아서 이곳저곳 방황을 했었다.
-그래서 찾아보다 직접 만들게 된 블로그이다. 블로그 유목민,, 이번에는 정착할 수 있게 해주세요!&lt;/p&gt;
+그래서 찾아보다 직접 만들게 된 블로그이다.&lt;/p&gt;
+
+&lt;p&gt;이제 블로그 정도는 직접 만들어야되지 않겠어?!
+이전에 ruby on rails로 개발을 조금 해보았기도 해서 익숙할 줄 알았는데..?
+뭐야, 셋팅에 이틀정도 걸린듯..! 그래도 자료 찾아보면서 감을 좀 잡았다.
+다른 블로그 플랫폼에서는 하지 못했던 커스텀, 기능붙이기 많이 시도해 봐야지 ㅎㅎ&lt;/p&gt;
+
+&lt;p&gt;블로그 유목민,, 이번에는 정착할 수 있게 해주세요!&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;ㅋㅋㅋㅋ확실히 혼자 쓰는 블로그라 마음껏 쓸 수 있는거 같은?!&lt;/p&gt;
@@ -21,8 +59,6 @@
         <pubDate>Sat, 22 Jan 2022 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/first-posts/</link>
         <guid isPermaLink="true">http://localhost:4000/first-posts/</guid>
-        
-        <category>Blog</category>
         
         
         <category>Lifestyle</category>
@@ -241,33 +277,6 @@ rating: 4.5
         <guid isPermaLink="true">http://localhost:4000/review-oscar/</guid>
         
         <category>Movies</category>
-        
-        
-        <category>Lifestyle</category>
-        
-      </item>
-    
-      <item>
-        <title>French Wine has to compete with many new world wines</title>
-        <description>&lt;p&gt;French wine is produced all throughout France, in quantities between 50 and 60 million hectolitres per year, or 7–8 billion bottles. France is one of the largest wine producers in the world, along with Italian, Spanish, and American wine-producing regions.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;French wine traces its history to the 6th century BC, with many of France’s regions dating their wine-making history to Roman times. The wines produced range from expensive wines sold internationally to modest wines usually only seen within France such as the Margnat wines were during the post war period.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Two concepts central to the better French wines are the notion of terroir, which links the style of the wines to the locations where the grapes are grown and the wine is made and the Appellation d’origine contrôlée (AOC) system, replaced by the Appellation d’Origin Protégée (AOP) system in 2012.&lt;/p&gt;
-
-&lt;p&gt;Appellation rules closely define which grape varieties and winemaking practices are approved for classification in each of France’s several hundred geographically defined appellations, which can cover regions, villages or vineyards.&lt;/p&gt;
-
-&lt;p&gt;France is the source of many grape varieties (such as &lt;strong&gt;Cabernet Sauvignon, Chardonnay, Pinot noir, Sauvignon blanc, Syrah&lt;/strong&gt;) that are now planted throughout the world, as well as wine-making practices and styles of wine that have been adopted in other producing countries.&lt;/p&gt;
-
-&lt;p&gt;Although some producers have benefited in recent years from rising prices and increased demand for some of the prestige wines from Burgundy and Bordeaux, the French wine industry has seen a decline in domestic consumption and internationally, it has had to compete with many new world wines.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 01 Jan 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/french-wine/</link>
-        <guid isPermaLink="true">http://localhost:4000/french-wine/</guid>
-        
-        <category>France</category>
         
         
         <category>Lifestyle</category>
